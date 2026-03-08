@@ -15,7 +15,11 @@ I ship working prototypes, open-source what I learn, and write about the product
 ## About me
 
 🎓 MIT Masters in AI | IIT Roorkee Bachelors in Chemical Engineering
+
 💼 Data Scientist in Finance Industry turned AI Product Manager in Healthcare Industry. 10 yrs of experience researching, building and productizing AI solutions. Proponent of developing inclusive, sustainable and safe AI solutions
+
 ✍️ I write about AI product management on [LinkedIn](https://linkedin.com/in/srishti314) and [Substack](https://substack.com/@srishtiaipm)
+
 📚 I have published image pattern recognition algorithm in [Pattern Analysis and Applications Journal](https://link.springer.com/article/10.1007/s10044-020-00879-4) , was acknowledged for my contributions towards EHR data preparation for prediction of neutropenia in cancer patients in [JCO Journal](https://ascopubs.org/doi/10.1200/CCI.21.00046?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed)
+
 🔍 I have pending patent on data querying capability using LLM with data privacy setting and pending conference acceptance of prediction of adherence in clinical trials
