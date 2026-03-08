@@ -22,4 +22,4 @@ I ship working prototypes, open-source what I learn, and write about the product
 
 📚 I have published image pattern recognition algorithm in [Pattern Analysis and Applications Journal](https://link.springer.com/article/10.1007/s10044-020-00879-4) , was acknowledged for my contributions towards EHR data preparation for prediction of neutropenia in cancer patients in [JCO Journal](https://ascopubs.org/doi/10.1200/CCI.21.00046?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed)
 
-🔍 I have pending patent on data querying capability using LLM with data privacy setting and pending conference acceptance of prediction of adherence in clinical trials
+🔍 I have patent pending on data querying capability using LLM with data privacy and pending conference acceptance of prediction of adherence in clinical trials
