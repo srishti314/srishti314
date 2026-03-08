@@ -6,11 +6,11 @@ I ship working prototypes, open-source what I learn, and write about the product
 
 ## Projects
 
-| Project | Repo | What it does |
-|---|---|---|
-| **Mental Health AI Tools** | https://github.com/srishti314/Mental_health_solutions | Suite of AI-driven tools for daily mental wellness. Focus on accessible, privacy-first design. |
-| **Daily Carbon Tracker**  | coming soon | A calorie-counter-style app for your carbon footprint. Log meals, commute, purchases: get a daily emission score and weekly trends. Making carbon awareness as intuitive as counting calories. |
-| **Fake News Detection Extension**  | coming soon | Chrome extension that flags misinformation in real-time. Born from firsthand experience with crisis-time news chaos. |
+| Project | What it does |
+|---|---|
+| **[Mental Health AI Tools](https://github.com/srishti314/Mental_health_solutions)** *(in progress)* | Suite of AI-driven tools for daily mental wellness. Focus on accessible, privacy-first design. |
+| **Daily Carbon Tracker** *(coming soon)* | A calorie-counter-style app for your carbon footprint. Log meals, commute, purchases: get a daily emission score and weekly trends. Making carbon awareness as intuitive as counting calories. |
+| **Fake News Detection Extension** *(coming soon)* | Chrome extension that flags misinformation in real-time. Born from firsthand experience with crisis-time news chaos. |
 
 ## About me
 
