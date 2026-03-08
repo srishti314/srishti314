@@ -14,7 +14,7 @@ I ship working prototypes, open-source what I learn, and write about the product
 
 ## About me
 
-🎓 MIT Masters in AI | IIT Roorkee Bachelors in Chemical Engineering
+🎓 MIT Masters in AI & IIT Roorkee Bachelors in Chemical Engineering
 
 💼 Data Scientist in Finance Industry turned AI Product Manager in Healthcare Industry. 10 yrs of experience researching, building and productizing AI solutions. Proponent of developing inclusive, sustainable and safe AI solutions
 
