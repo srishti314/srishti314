@@ -1,6 +1,6 @@
-# Hi, I'm Srishti 👋
+# Hi, I'm Srishti
 
-AI Product Manager building tools that make people's daily lives better. Most of my work sits at the intersection of AI, consumer wellness, daily productivity and environment conservation.
+AI Product Manager building tools on github that make people's daily lives better. Most of my work sits at the intersection of AI, consumer wellness, daily productivity and environment conservation.
 
 I ship working prototypes, open-source what I learn, and write about the product thinking behind each build.
 
