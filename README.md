@@ -10,6 +10,7 @@ I ship working prototypes, open-source what I learn, and write about the product
 |---|---|
 | **[Mental Health AI Tools](https://github.com/srishti314/Mental_health_solutions)** *(in progress)* | Suite of AI-driven tools for daily mental wellness. Focus on accessible, privacy-first design. |
 | **[Innovative POCs for Non Traditional Industries](https://github.com/srishti314/AIForNonTraditionalIndustries)** *(in progress)* | Ideas and prototypes of how AI can be expanded to non-traditional industries such as arts, crafts etc. in a sustainable way |
+| **[AI Assisted Travel Planner](https://github.com/srishti314/AIAssistedTravelBookings)** *(in progress)* | Making travel planning easy, cost effective and efficient |
 | **Daily Carbon Tracker** *(coming soon)* | A "calorie counter style" app for your carbon footprint. Log meals, commute, purchases: get a daily emission score and weekly trends. Making carbon awareness as intuitive as counting calories. |
 | **Fake News Detection Extension** *(coming soon)* | Chrome extension that flags misinformation in real-time. Born from firsthand experience with crisis time news chaos. |
 
